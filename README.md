@@ -23,7 +23,6 @@ Rather than storing all course content in a single repository, courses are **con
 | [AI Enabled Data Professionals](./course-pages/ai-enabled-data-professionals.md) | 1 Day   7 Hour   Workshop |
 | [AI Solution Architect](./course-pages/ai-solution-architect.md) | Full Time   40 Hour   Short Course |
 | [AI Superpowered Data Professionals](./course-pages/ai-superpowered-data-professionals.md) | Incompete |
-| [Applied AI for Engineers](./course-pages/applied-ai-for-engineers.md) | Full Time   6 Hour or 16 Hour   Workshop |
 | [Foundational Java](./course-pages/foundational-java.md) | Full or Part Time   1 Year   Apprenticeship |
 | [Information Technology Bootcamp](./course-pages/information-technology-bootcamp.md) | Part Time   240 Hours   Bootcamp |
 | [Java Short Course](./course-pages/java-short-course.md) | Full or Part Time   40 Hour or 10 Week   Short Course |
