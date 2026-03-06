@@ -33,6 +33,7 @@
 | [Fetching Data in React Lab](https://git.generalassemb.ly/modular-curriculum-all-courses/fetching-data-in-react-lab) | Lab | 60 min | Practice integrating API data into React applications. |
 | [React Router DOM](https://git.generalassemb.ly/modular-curriculum-all-courses/react-router-dom) | Lecture | 120 min | Implementing client-side routing with React Router. |
 | [React Router DOM Lab](https://git.generalassemb.ly/modular-curriculum-all-courses/react-router-dom-lab) | Lab | 120 min | Practice building navigation and routing in React apps. |
+| **Total content** |  | **~27 hours (1620 min)** |  |
 
 ## Projects
 

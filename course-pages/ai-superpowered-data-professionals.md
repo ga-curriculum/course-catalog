@@ -3,7 +3,7 @@
   <span class="headline">AI Superpowered Data Professionals</span>
 </h1>
 
-[Course Incomplete]
+**[Course Incomplete]**
 
 ## Installfest Guides
 

@@ -31,6 +31,8 @@
 | [Responding to Browser Events](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-responding-to-browser-events/) | Lesson | 60 min | Learn how JavaScript responds to browser events such as clicks and user interactions. |
 | [The Command Line Interface](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-the-command-line-interface) | Lesson | 30 min | Introduction to navigating and performing tasks using the command line. |
 | [Version Control with Git](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-version-control-with-git/) | Lesson | 30 min | Learn the basics of Git for version control and collaboration. |
+| **Total content** |  | **~10 hours** | |
+
 
 ## Projects 
 
