@@ -77,6 +77,6 @@ Below are details covering the course systems and accounts you need on Day 1. Yo
 ## Instructional Resources
 
 For teaching notes, preparation steps, and facilitation guidance, see:
-- [Link to instructor guide](#)
-- [Link to pacing guide](#)
-- [Link to tech setup guide](#)
+- [Link to instructor guide](https://docs.google.com/document/d/1LROhGzcNgHPls4j9eJfb9ucnnQNnUfd8/edit?usp=sharing&ouid=103229023636988120695&rtpof=true&sd=true)
+- [Link to pacing guide](https://docs.google.com/spreadsheets/d/11tylXik_4ATQhfgMc4XiiUGTH3ma7fyI/edit?usp=sharing&ouid=103229023636988120695&rtpof=true&sd=true)
+- [Link to tech setup guide](https://docs.google.com/document/d/19dYQP5jTMl2wHHpWfTJJbA1pSxYwuw-7/edit?usp=sharing&ouid=103229023636988120695&rtpof=true&sd=true)
