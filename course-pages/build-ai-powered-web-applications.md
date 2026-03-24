@@ -130,8 +130,6 @@ Below are details covering the course systems and accounts you need on Day 1. Yo
 |15| [**Capstone Project: AI-powered Full-stack Web Application**](https://github.com/ga-curriculum/capstone) | Design, build, and deploy a full-stack AI-powered web application integrating intelligent, ethical, and scalable features. | [**Building and Presenting a Full AI Application**](https://github.com/ga-curriculum/build-ai-powered-web-apps-capstone) <br> Build and present a deployable AI web application with generative or recommendation capabilities. |
 
 
-
-
 ## 📋 Instructional Resources
 
 For teaching notes, preparation steps, and facilitation guidance, see:
