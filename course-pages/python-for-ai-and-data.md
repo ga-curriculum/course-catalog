@@ -2,7 +2,6 @@
 
 - **Format:** Instructor-Led (Online, Synchronous)
 - **Duration:** 8 Weeks • 32 Hours
-- **Instructor:** TBD <!-- For delivery, fill in the instructors name. -->
 
 ---
 
