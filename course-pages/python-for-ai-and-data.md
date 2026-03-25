@@ -68,23 +68,3 @@ Python is one of the most in-demand skills across data and AI roles. In this cou
 | Module 14: [Introduction to Machine Learning with Scikit-Learn](https://github.com/ga-curriculum/introduction-to-machine-learning-with-scikit-learn) | [Building and Evaluating a Baseline Model](https://github.com/ga-curriculum/introduction-to-machine-learning-with-scikit-learn/tree/main/lab-building-and-evaluating-a-baseline-model) | Python 3, Jupyter Notebook, Scikit-Learn, Pandas, NumPy |
 | Module 15: [Model Deployment and Automation](https://github.com/ga-curriculum/model-deployment-and-automation) | [Saving and Loading Models for Automation](https://github.com/ga-curriculum/model-deployment-and-automation/tree/main/lab-saving-and-loading-models-for-automation) | Python 3, Jupyter Notebook, Scikit-Learn, Pandas, NumPy, Git, GitHub |
 | Module 16: [Capstone Project](https://github.com/ga-curriculum/capstone-project-applied-python-for-data-analytics) | [Applied Python Analytics Project](https://github.com/ga-curriculum/capstone-project-applied-python-for-data-analytics/blob/main/README.md) | Python 3, Jupyter Notebook, Pandas, NumPy, Matplotlib, Scikit-Learn, Git, GitHub |
-
-
----
-
-## Instructional Resources
-
-For teaching notes, preparation steps, and facilitation guidance, see:
-
-- [Instructor Guides](./instructor-guides/) — Module-by-module teaching notes and talking points
-- [Pacing Guide](./pacing-guide/) — Weekly schedule and timing recommendations
-- [Tech Setup Guide](./tech-setup/) — Environment configuration and troubleshooting
-- [Capstone Project Brief](./capstone/docs/Python_for_AI_Data_Capstone_Project_Brief.pdf) — Final project requirements and rubric
-
-For teaching notes, preparation steps, and facilitation guidance, see:
-
-- [Instructor Guides](https://docs.google.com/document/d/YOUR_DOC_ID_HERE/edit) — Module-by-module teaching notes and talking points
-- [Pacing Guide](https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID_HERE/edit) — Weekly schedule and timing recommendations
-- [Tech Setup Guide](https://docs.google.com/document/d/YOUR_DOC_ID_HERE/edit) — Environment configuration and troubleshooting
-- [Capstone Project Brief](https://docs.google.com/document/d/YOUR_DOC_ID_HERE/edit) — Final project requirements and rubric
-```
