@@ -1,8 +1,6 @@
-# GA Course Catalogue
+# GA Course Catalog
 
 This repository serves as the catalogue for **General Assembly's modular curriculum**. It provides a table of contents for all courses and programs built using the reusable content modules contained within this organization.
-
-[GH Pages Site](https://ga-curriculum.github.io/course-catalogue/)
 
 ## About this Organization
 
