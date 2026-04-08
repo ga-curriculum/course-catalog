@@ -12,7 +12,7 @@
 
 | Module name | Type | Duration | About |
 |---|---|---|---|
-| [Pre-Work: Python Fundamentals](https://git.generalassemb.ly/modular-curriculum-all-courses/python-pre-work) | Async | 180 min | Introducing students to Python language and syntax. |
+| [Pre-Work: Python Fundamentals](https://github.com/ga-curriculum/python-pre-work) | Async | 180 min | Introducing students to Python language and syntax. |
 
 ## Projects 
 

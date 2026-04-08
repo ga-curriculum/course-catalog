@@ -16,26 +16,26 @@
 
 | Module name | Type | Duration | About |
 |---|---|---|---|
-| [Introduction to Python](https://git.generalassemb.ly/modular-curriculum-all-courses/introduction-to-python) | Lecture | 120 min | Learn the basics of Python, including syntax, variables, and basic data types. This module sets the foundation for Python programming. |
-| [Python Data Structures](https://git.generalassemb.ly/modular-curriculum-all-courses/python-data-structures) | Lecture | 120 min | Explore core data structures in Python such as lists, tuples, dictionaries, and sets, and understand their applications. |
-| [Python Conditionals](https://git.generalassemb.ly/modular-curriculum-all-courses/python-conditionals) | Lecture | 120 min | Learn how to use conditional statements in Python to control the flow of your programs. Covers `if`, `elif`, and `else` statements. |
-| [Python Loops](https://git.generalassemb.ly/modular-curriculum-all-courses/python-loops) | Lecture | 120 min | Explore loops in Python, including `for` and `while` loops, to efficiently iterate over data and automate repetitive tasks. |
-| [Python Functions](https://git.generalassemb.ly/modular-curriculum-all-courses/python-functions) | Lecture | 120 min | Understand how to create and use functions in Python to write modular, reusable, and organized code. |
-| [Python Modules and Scripting](https://git.generalassemb.ly/modular-curriculum-all-courses/python-modules-and-scripting) | Lecture | 120 min | Learn how to organize code using modules and write Python scripts to automate tasks. |
-| [Python Fundamentals Review Lab](https://git.generalassemb.ly/modular-curriculum-all-courses/python-fundamentals-review-lab) | Lab | 120 min | Hands-on exercises to reinforce Python fundamentals learned in previous modules. |
-| [Python Object Oriented Programming](https://git.generalassemb.ly/modular-curriculum-all-courses/python-object-oriented-programming) | Lecture | 120 min | Explore object-oriented programming concepts including classes, objects, and inheritance. |
-| [Python Error Handling and Debugging](https://git.generalassemb.ly/modular-curriculum-all-courses/python-error-handling-and-debugging) | Lecture | 90 min | Learn techniques for handling errors and debugging Python code effectively. |
-| [Exploratory Data Analysis with Pandas](https://git.generalassemb.ly/modular-curriculum-all-courses/exploratory-data-analysis-with-pandas) | Lecture | 120 min | Use Pandas for data exploration, cleaning, and analysis. |
-| [Data Visualization with Pandas](https://git.generalassemb.ly/modular-curriculum-all-courses/data-visualization-with-pandas) | Lecture | 120 min | Create informative visualizations using Python and Pandas. |
-| [Cleaning and Combining Data with Pandas](https://git.generalassemb.ly/modular-curriculum-all-courses/cleaning-and-combining-data-with-pandas) | Lecture | 120 min | Learn advanced techniques for cleaning, merging, and preparing datasets using Pandas. |
-| [Exploring APIs with Python](https://git.generalassemb.ly/modular-curriculum-all-courses/exploring-apis-with-python) | Lecture | 120 min | Learn how to interact with APIs using Python, including sending requests and handling responses. |
-| [Server Development with Flask](https://git.generalassemb.ly/modular-curriculum-all-courses/server-development-with-flask) | Lecture | 120 min | Introduction to server-side development using Flask. |
-| [Flask Templates](https://git.generalassemb.ly/modular-curriculum-all-courses/flask-templates) | Lecture | 100 min | Learn how to create dynamic web pages using Flask templates. |
+| [Introduction to Python](https://github.com/ga-curriculum/introduction-to-python) | Lecture | 120 min | Learn the basics of Python, including syntax, variables, and basic data types. This module sets the foundation for Python programming. |
+| [Python Data Structures](https://github.com/ga-curriculum/python-data-structures) | Lecture | 120 min | Explore core data structures in Python such as lists, tuples, dictionaries, and sets, and understand their applications. |
+| [Python Conditionals](https://github.com/ga-curriculum/python-conditionals) | Lecture | 120 min | Learn how to use conditional statements in Python to control the flow of your programs. Covers `if`, `elif`, and `else` statements. |
+| [Python Loops](https://github.com/ga-curriculum/python-loops) | Lecture | 120 min | Explore loops in Python, including `for` and `while` loops, to efficiently iterate over data and automate repetitive tasks. |
+| [Python Functions](https://github.com/ga-curriculum/python-functions) | Lecture | 120 min | Understand how to create and use functions in Python to write modular, reusable, and organized code. |
+| [Python Modules and Scripting](https://github.com/ga-curriculum/python-modules-and-scripting) | Lecture | 120 min | Learn how to organize code using modules and write Python scripts to automate tasks. |
+| [Python Fundamentals Review Lab](https://github.com/ga-curriculum/python-fundamentals-review-lab) | Lab | 120 min | Hands-on exercises to reinforce Python fundamentals learned in previous modules. |
+| [Python Object Oriented Programming](https://github.com/ga-curriculum/python-object-oriented-programming) | Lecture | 120 min | Explore object-oriented programming concepts including classes, objects, and inheritance. |
+| [Python Error Handling and Debugging](https://github.com/ga-curriculum/python-error-handling-and-debugging) | Lecture | 90 min | Learn techniques for handling errors and debugging Python code effectively. |
+| [Exploratory Data Analysis with Pandas](https://github.com/ga-curriculum/exploratory-data-analysis-with-pandas) | Lecture | 120 min | Use Pandas for data exploration, cleaning, and analysis. |
+| [Data Visualization with Pandas](https://github.com/ga-curriculum/data-visualization-with-pandas) | Lecture | 120 min | Create informative visualizations using Python and Pandas. |
+| [Cleaning and Combining Data with Pandas](https://github.com/ga-curriculum/cleaning-and-combining-data-with-pandas) | Lecture | 120 min | Learn advanced techniques for cleaning, merging, and preparing datasets using Pandas. |
+| [Exploring APIs with Python](https://github.com/ga-curriculum/exploring-apis-with-python) | Lecture | 120 min | Learn how to interact with APIs using Python, including sending requests and handling responses. |
+| [Server Development with Flask](https://github.com/ga-curriculum/server-development-with-flask) | Lecture | 120 min | Introduction to server-side development using Flask. |
+| [Flask Templates](https://github.com/ga-curriculum/flask-templates) | Lecture | 100 min | Learn how to create dynamic web pages using Flask templates. |
 | **Total content** | Total | ~1680 min (~28 hours) | |
 
 ## Projects
 
 | Module name | About |
 |---|---|
-| [Project 1 - Python Budget Tracker Application](https://git.generalassemb.ly/modular-curriculum-all-courses/python-budget-tracker-application-project) | Build a budget tracking application that helps a small business manage finances across accounts, categories, and time periods. |
-| [Project 2 - Python Flask Application](https://git.generalassemb.ly/modular-curriculum-all-courses/python-flask-application-project) | Build a dynamic Flask application that reads data from a CSV file or external API and presents it through read-only routes. |
+| [Project 1 - Python Budget Tracker Application](https://github.com/ga-curriculum/python-budget-tracker-application-project) | Build a budget tracking application that helps a small business manage finances across accounts, categories, and time periods. |
+| [Project 2 - Python Flask Application](https://github.com/ga-curriculum/python-flask-application-project) | Build a dynamic Flask application that reads data from a CSV file or external API and presents it through read-only routes. |
