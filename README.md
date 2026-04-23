@@ -28,7 +28,7 @@ Rather than storing all course content in a single repository, courses are **con
 | [Build AI Agents - BAA ](./course-pages/build-ai-agents.md) | 32 Hours |
 | [Build AI Powered Web Applications - BWA ](./course-pages/build-ai-powered-web-applications.md) | 32 Hours |
 | [Data Engineering & Automation with AI - DEA ](./course-pages/data-engineering-and-automation-with-ai.md) | 32 Hours |
-| [Foundational Java](./course-pages/foundational-java.md) | 40 Hours |
+| [Foundational Java](./course-pages/foundational-java.md) | 32 Hours |
 | [Front-End Development with HTML & CSS - FED ](./course-pages/front-end-development-with-html-css.md) | 32 Hours |
 | [Information Technology Bootcamp - ITB](./course-pages/information-technology-bootcamp.md) | 240 Hours |
 | [Java Short Course](./course-pages/java-short-course.md) | 31 Hours |
