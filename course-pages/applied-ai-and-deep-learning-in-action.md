@@ -1,7 +1,7 @@
-# Start Here: Applied AI & Deep Learning in Action
+# Applied AI & Deep Learning in Action
 
 - **Format:** Instructor-Led
-- **Duration:** 4 Days • 32 HoursTBD <!-- For delivery, fill in the instructors name. -->
+- **Duration:** 4 Days • 32 Hours
 
 ---
 
@@ -41,7 +41,7 @@ Ideal for:
 
 ## System Requirements
 
-### ✅ Required Installations
+### Required Installations
 
 - ✅ **Python 3.9+** installed and working  
 - ✅ **Jupyter Notebook** installed (`pip install notebook`)  
